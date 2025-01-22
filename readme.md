@@ -13,7 +13,8 @@ Thanks to @rinziv and @prafra for the slides
 | 6  | 15 gennaio 2025  | Esercizi di disegno con P5.js | [slides](https://github.com/danielefadda/alma_artis_2025/blob/main/slides/Lesson_04_esercizi.pdf) |
 | 7  | 15 gennaio 2025  | Istruzioni condizionali | [slides](https://github.com/danielefadda/alma_artis_2025/blob/main/slides/Lesson_05a_if.pdf) |
 | 8  | 15 gennaio 2025  | Istruzioni condizionali con P5.js | [slides](https://github.com/danielefadda/alma_artis_2025/blob/main/slides/Lesson_05b_if_p5.pdf) |
-| 9  | 21 gennaio 2025  | Disegnare l'alba con P5.js | [slides](https://github.com/danielefadda/alma_artis_2025/blob/main/slides/Lesson_05b_if_p5.pdf) |
+| 9  | 21 gennaio 2025  | Disegnare l'alba con P5.js | [slides](https://github.com/danielefadda/alma_artis_2025/blob/main/slides/Lesson_05c_sunrise.pdf) |
+| 10  | 21 gennaio 2025  | Esercitazione per casa: termometro con P5.js | [slides](https://github.com/danielefadda/alma_artis_2025/blob/main/slides/Lesson_05_esercitazione_termometro.pdf) |
 
 
 
