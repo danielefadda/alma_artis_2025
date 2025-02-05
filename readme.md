@@ -16,8 +16,10 @@ Thanks to @rinziv and @prafra for the slides
 | 9  | 21 gennaio 2025  | Disegnare l'alba con P5.js | [slides](https://github.com/danielefadda/alma_artis_2025/blob/main/slides/Lesson_05b_if_p5.pdf) |
 | 10 | 21 gennaio 2025 | Esercitazioni varie su istruzioni condizionali | [code](https://github.com/danielefadda/alma_artis_2025/tree/main/esercizi/Lesson_05b) |
 | 11 | 28 gennaio 2025 | Esercitazione termometro | [slide](https://github.com/danielefadda/alma_artis_2025/tree/main/esercizi/Lesson_05b) |
-
-
+| 12 | 4 febbraio 2025 | Istruzioni iterative | [slide](https://github.com/danielefadda/alma_artis_2025/tree/main/slides#:~:text=2%20minutes%20ago-,Lesson_06a_for.pdf,-updated%20repo%20with) |
+| 13 | 4 febbraio 2025 | Esercitazioni sulle istruzioni iterative | [code](https://github.com/danielefadda/alma_artis_2025/tree/main/slides#:~:text=2%20minutes%20ago-,Lesson_06b_for_recap.pdf,-updated%20repo%20with) |
+| 14 | 4 febbraio 2025 | Istruzioni iterative con P5.js | [slide](https://github.com/danielefadda/alma_artis_2025/tree/main/slides#:~:text=2%20minutes%20ago-,Lesson_06c_for_p5.pdf,-updated%20repo%20with) |
+| 15 | 4 febbraio 2025 | Esercitazioni per casa sulle istruzioni iterative con P5.js | [code](https://github.com/danielefadda/alma_artis_2025/tree/main/slides#:~:text=3%20minutes%20ago-,Lesson_06d_esercitazion_casa.pdf,-updated%20repo%20with) |
 
 
 
