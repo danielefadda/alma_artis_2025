@@ -20,7 +20,7 @@ Thanks to @rinziv and @prafra for the slides
 | 13 | 4 febbraio 2025 | Esercitazioni sulle istruzioni iterative | [slide](https://github.com/danielefadda/alma_artis_2025/tree/main/slides#:~:text=2%20minutes%20ago-,Lesson_06b_for_recap.pdf,-updated%20repo%20with) |
 | 14 | 4 febbraio 2025 | Istruzioni iterative con P5.js | [slide](https://github.com/danielefadda/alma_artis_2025/tree/main/slides#:~:text=2%20minutes%20ago-,Lesson_06c_for_p5.pdf,-updated%20repo%20with) |
 | 15 | 4 febbraio 2025 | Esercitazioni per casa sulle istruzioni iterative con P5.js | [slide](https://github.com/danielefadda/alma_artis_2025/tree/main/slides#:~:text=3%20minutes%20ago-,Lesson_06d_esercitazion_casa.pdf,-updated%20repo%20with) |
-
+| 16 | 11 febbraio 2025 | Trasformazioni (translate - rotate) con P5.js | [slide](https://github.com/danielefadda/alma_artis_2025/tree/main/slides#:~:text=3%20minutes%20ago-,Lesson_06d_esercitazion_casa.pdf,-updated%20repo%20with) |
 
 
 *Nella cartella [`esercizi`](https://github.com/danielefadda/alma_artis_2025/tree/main/esercizi) troverete gli esercizi svolti durante le lezioni e le soluzioni delle esercitazioni* 
