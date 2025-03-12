@@ -21,6 +21,12 @@ Thanks to @rinziv and @prafra for the slides
 | 14 | 4 febbraio 2025 | Istruzioni iterative con P5.js | [slide](https://github.com/danielefadda/alma_artis_2025/tree/main/slides#:~:text=2%20minutes%20ago-,Lesson_06c_for_p5.pdf,-updated%20repo%20with) |
 | 15 | 4 febbraio 2025 | Esercitazioni per casa sulle istruzioni iterative con P5.js | [slide](https://github.com/danielefadda/alma_artis_2025/tree/main/slides#:~:text=3%20minutes%20ago-,Lesson_06d_esercitazion_casa.pdf,-updated%20repo%20with) |
 | 16 | 11 febbraio 2025 | Trasformazioni (translate - rotate) con P5.js | [slide](https://github.com/danielefadda/alma_artis_2025/blob/main/slides/Lesson_07_transform-slides.pdf) |
+| 17 | 18 febbraio 2025 | Esercitazioni con P5.js | [slide](https://github.com/danielefadda/alma_artis_2025/blob/main/slides/Lesson_07_assignment.pdf) |
+| 18 | 18 febbraio 2025 | Orologio con P5.js | [slide](https://github.com/danielefadda/alma_artis_2025/blob/main/slides/Lesson_07_clock-slides.pdf) |
+| 19 | 18 febbraio 2025 | Sistema solare con P5.js | [slide](https://github.com/danielefadda/alma_artis_2025/blob/main/slides/Lesson_07_solar-system-slides.pdf) |
+| 20 | 25 febbraio 2025 | Funzioni in JavaScript | [slide](https://github.com/danielefadda/alma_artis_2025/blob/main/slides/Lesson_08a_js-functions.pdf) |
+| 21 | 11 marzo 2025 | Funzioni in P5js | [slide](https://github.com/danielefadda/alma_artis_2025/blob/main/slides/Lesson_08c_functions-p5js.pdf) |
+
 
 
 *Nella cartella [`esercizi`](https://github.com/danielefadda/alma_artis_2025/tree/main/esercizi) troverete gli esercizi svolti durante le lezioni e le soluzioni delle esercitazioni* 
